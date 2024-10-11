@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "horizonreloaded:item/rough_amber_gemstone"
+  }
+}
